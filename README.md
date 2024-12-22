@@ -4,6 +4,3 @@
 - 🌱 I’m currently learning **java, react and vue.js**
 
 - 📫 How to reach me **yckim8721@gmail.com**
-
-<p align="left">
-</p>
