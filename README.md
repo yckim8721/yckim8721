@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋, I'm Youngchan Kim, a steadily growing developer.</h2>
 <h4 align="left">I'm learning with the mission of change the world a better than yesterday!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyc08&label=Profile%20views&color=0e75b6&style=flat" alt="kyc08" /> </p>
-
 - 🌱 I’m currently learning **java, react and vue.js**
 
 - 📫 How to reach me **yckim8721@gmail.com**
