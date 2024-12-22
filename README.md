@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm Youngchan Kim, a steadily growing developer.</h2>
-<h4 align="left">I'm learning with the mission of change the world a better than yesterday!</h4>
+<h4 align="left">Hi 👋, I'm Youngchan Kim, a steadily growing developer.</h4>
+<h4 align="left">I'm laying the ground work as a developer.</h4>
 
 - 🌱 I’m currently learning **java, react and vue.js**
 
